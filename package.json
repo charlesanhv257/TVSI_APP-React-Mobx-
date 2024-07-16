@@ -8,7 +8,7 @@
     "@emotion/react": "^11.4.1",
     "@emotion/styled": "^11.3.0",
     "@microsoft/signalr": "^5.0.10",
-    "@mui/material": "^5.0.3",
+    "@mui/material": "^5.15.20",
     "@reduxjs/toolkit": "^1.7.0",
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
